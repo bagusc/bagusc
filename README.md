@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![https://github-readme-stats.vercel.app/api?username=bagusc&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=bagusc&hide=contribs,prs,issues)
-![https://github-readme-stats.vercel.app/api/top-langs/?username=bagusc&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusc&layout=compact)
+![https://github-readme-stats.vercel.app/api?username=baguscx&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=baguscx&hide=contribs,prs,issues)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=baguscx&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=baguscx&layout=compact)
 
 2nd: [@bagusc](https://github.com/bagusc/)
 <!--
