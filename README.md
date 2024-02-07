@@ -10,10 +10,10 @@ Welcome to my GitHub! My name is Bagus Cahyono, I'm from Pasuruan, Indonesia ðŸ‡
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baguscx&layout=compact" />
 </p>
 
-## :wrench: My Stacks
+<!-- ## :wrench: My Stacks
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,express,nodejs,mongo" />
-</p>
+</p> -->
 
 ## ðŸ“© Contact
 
